@@ -1,7 +1,6 @@
 # Number_to_Words
 
-This application  is did in python/django 
-
+This application  is did fully in python/django 
 1. Need internet connection to work the "Text to speech" without that it will  show error
 
 2.Result will take some time depends on internet speed
